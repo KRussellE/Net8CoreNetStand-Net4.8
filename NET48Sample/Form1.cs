@@ -16,5 +16,10 @@ namespace NET48Sample
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Class1 myClass = new Class1("If you clikk ok, you will see open a Form");
+        }
     }
 }
