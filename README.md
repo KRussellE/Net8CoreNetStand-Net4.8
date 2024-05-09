@@ -1,0 +1,1 @@
+# Net8CoreNetStand-Net4.8
